@@ -4,3 +4,5 @@ We use UAVs equipped with geophones for seismic acquisition. Swarm of UAVs they 
 Limits: battery charge, slots on charging station, specific mid-points area.
 
 install.sh 
+
+files for Windows kosshams/Files/Armco/4.zip
