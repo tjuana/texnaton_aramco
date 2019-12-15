@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.12.15 10:17:27.507.cpp,C:\Kostya\Source\Тестовые задания\Aramco\4\Swarm.cpp=</Transaction>
+    <Transaction>2019.12.15 10:17:39.911.cbproj,C:\Kostya\Source\Тестовые задания\Aramco\4\Project1.cbproj=C:\Kostya\Source\Тестовые задания\Aramco\4\Swarm.cbproj</Transaction>
+    <Transaction>2019.12.15 10:19:53.170.cpp,C:\Kostya\Source\Тестовые задания\Aramco\4\Unit1.cpp=C:\Kostya\Source\Тестовые задания\Aramco\4\MainUnit.cpp</Transaction>
+    <Transaction>2019.12.15 10:19:53.170.h,C:\Kostya\Source\Тестовые задания\Aramco\4\Unit1.h=C:\Kostya\Source\Тестовые задания\Aramco\4\MainUnit.h</Transaction>
+    <Transaction>2019.12.15 10:19:53.170.dfm,C:\Kostya\Source\Тестовые задания\Aramco\4\Unit1.dfm=C:\Kostya\Source\Тестовые задания\Aramco\4\MainUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
